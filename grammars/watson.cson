@@ -1,0 +1,9 @@
+'scopeName': 'text.watson-todo'
+'name': 'Watson TODO'
+'injectionSelector': 'comment'
+'patterns': [
+  {
+    'match': '\\[(todo|fixme|review)\\]'
+    'name': 'storage.type.class.${1:/downcase}'
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "language-watson",
+  "version": "0.1.0",
+  "description": "TODO/FIXME highlighting for nhmood's Watson",
+  "repository": "https://github.com/atom/language-watson",
+  "license": "MIT",
+  "engines": {
+    "atom": "*",
+    "node": "*"
+  },
+  "homepage": "http://erran.github.io/language-watson",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atom/language-watson.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atom/language-watson/issues"
+  }
+}
