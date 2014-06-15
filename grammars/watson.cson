@@ -3,7 +3,7 @@
 'injectionSelector': 'comment'
 'patterns': [
   {
-    'match': '\\[(todo|fixme|review)\\]'
+    'match': '\\[(fixme|optimize|review|update|todo|note)\\]'
     'name': 'storage.type.class.${1:/downcase}'
   }
 ]
